@@ -1,6 +1,6 @@
 # Rental Company Application Using Jave 
 -------------------------------
-This program is 
+This is a: 
 
 - Car Rent Application
 - Appartment Rent Application  
