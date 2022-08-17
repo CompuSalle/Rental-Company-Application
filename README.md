@@ -3,7 +3,9 @@
 This is a: 
 
 - Car Rent Application
-- Appartment Rent Application  
+- Apartment Rent Application  
+
+
 
 --------------------------------
 
